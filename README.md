@@ -3,10 +3,8 @@
 # Django + Vercel
 
 This example shows how to use Django 4 on Vercel with Serverless Functions using the [Python Runtime](https://vercel.com/docs/concepts/functions/serverless-functions/runtimes/python).
-# Segue o link abaixo para ver o projeto no ar!
-(https://django-hello-world-three-neon.vercel.app/)
 
-## Demo
+## Demostração do Projeto de Testes
 
 https://django-template.vercel.app/
 
